@@ -21,5 +21,6 @@ if __name__ == "__main__":
 
     (options, args) = parser.parse_args()
 
-    print ("Hello world!")
+    print ("Hello world")
+
     
