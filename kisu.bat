@@ -6,3 +6,5 @@ SET COUNT=0
     SET /A COUNT+=1
     GOTO MyLoop
 :EndLoop
+
+rem done
